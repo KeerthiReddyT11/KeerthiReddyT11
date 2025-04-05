@@ -1,16 +1,34 @@
-## Hi there 👋
+## Hi there 👋 I'm Keerthi!
 
-<!--
-**KeerthiReddyT11/KeerthiReddyT11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Welcome to my GitHub!** This is where I tinker, build, and share all things tech 🔧🚀
 
-Here are some ideas to get you started:
+### 👩‍💻 About Me
+- 🚀 I am a student passionate about world,service,technology and continuous learning.
+- 🌱 I believe in combining resilience, curiosity and integrity to learn from challenges and create a positive impact in the world.
+- 🎓 I'm a budding student diving into **Artificial Intelligence , Machine Learning (AIML) & Genarative AI**
+- 💡 I love exploring projects that combine **technology + creativity** to solve real-world problems
 
-- 🔭 I’m currently working on ...AIML
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 Learning & Growing
+- 🤖 Generative AI
+- ⚙️ AI & ML
+- 🔍 Cloud
+- 📱 Front-end Dev for Smart Interfaces
+
+
+### ⚡ Fun Facts
+- ✈️ I'm an NCC Air Wing Cadet Sergeant who’s actually flown in a Virus SW 80 HP aircraft!
+- 🧠 I love turning complex ideas into simple, interactive experiences.
+
+
+### 📫 Reach Me At
+- 📧 keerthireddyt11@gmail.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/keerthi-reddy-tkr)
+
+
+### 👯 Let’s collaborate on impactful projects and create meaningful, positive change together 🌍✨
+
+---
+
+> *"The best way to predict the future is to invent it." – Alan Kay*
+
+
